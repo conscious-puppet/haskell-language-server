@@ -193,7 +193,7 @@ flag ormolu
 
 flag stylishHaskell
   description: Enable stylishHaskell plugin
-  default:     True
+  default:     False
   manual:      True
 
 flag refactor
