@@ -178,7 +178,7 @@ flag overloadedRecordDot
 
 flag floskell
   description: Enable floskell plugin
-  default:     True
+  default:     False
   manual:      True
 
 flag fourmolu
