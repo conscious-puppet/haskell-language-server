@@ -44,6 +44,7 @@ library
     , base                  >=4.12     && <5
     , bytestring
     , Cabal-syntax          >= 3.7
+    , Cabal
     , containers
     , deepseq
     , directory
@@ -80,6 +81,7 @@ test-suite tests
     , base
     , bytestring
     , Cabal-syntax          >= 3.7
+    , Cabal
     , directory
     , filepath
     , ghcide
