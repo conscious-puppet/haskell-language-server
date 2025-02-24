@@ -203,7 +203,7 @@ flag refactor
 
 flag dynamic
   description: Build with the dyn rts
-  default:     True
+  default:     False
   manual:      True
 
 flag cabalfmt
